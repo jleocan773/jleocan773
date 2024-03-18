@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Jonathan
-#### I am junior programmer
+#### I am junior programmer mostly interested in working PHP but
+#### Currently learning Python
 ![I am junior programmer](https://raw.githubusercontent.com/jleocan773/jleocan773/main/imgs/Banner.png)
 
 
