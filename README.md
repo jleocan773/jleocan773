@@ -8,4 +8,4 @@ Skills: PHP / JS / HTML / CSS
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jleocan773&theme=midnight-purple&show_icons=true&hide=prs&rank_icon=github&line_height=24&ring_color=FFF&title_color=FFF&text_color=FFF&icon_color=FFD700)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jleocan773&theme=midnight-purple&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jleocan773&theme=midnight-purple&layout=compact&title_color=FFF)
